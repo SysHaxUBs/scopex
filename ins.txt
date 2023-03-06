@@ -3,4 +3,9 @@ S C 0 P E X  -  E X P L O I T
 HOW TO USE:
 - Open TestNav on a school chromebook.
 - Click on "AimsWebPlus Canadian". If this doesn't appear, click the profile and click sign into a different customer.
-- TO BE CONTINUED IN V2
+- Sign in with Classlink.
+- Direct Login
+- Microsoft Logo
+- Sign-In Options
+- Sign in w/ Github
+- Click Github Logo
